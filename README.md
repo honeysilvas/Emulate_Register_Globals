@@ -1,2 +1,2 @@
 # Emulate-Register-Globals
-Emulate register_globals = on if it is set to off without using ini_set or .htaccess.
+Emulates what register_globals = On would do if register_globals is set to Off inside php.ini without using ini_set or .htaccess to override the setting. 
